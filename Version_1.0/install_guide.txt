@@ -1,0 +1,39 @@
+Note:
+    You still need graphviz to run even if you have created execuatable. 
+    
+    
+#### For Windows Users ####
+
+1. Installing Pyhton
+    Please check out "https://www.python.org/" to get latest Python3.X distribution. 
+    Please install Python3 only as PyQt5 is not compatible with Python2
+    
+2. Installing Graphviz 
+    Download installer from "http://www.graphviz.org/Download_windows.php".
+    After installing add gvedit in system PATH variable.
+    
+3. Installing PyDot
+    [Command Prompt(Admin)] 
+    pip3 install pydot
+    
+4. Installing PyQt5 
+    [Command Prompt(Admin)]
+    pip3 install pyqt5      
+    pip3 install pyqt5-tools        --please ignore if you don't want to install QtDesigner
+    
+#### For Linux Users ####
+
+1. Installing Pyhton
+    Most probably you already have python(2.X as well as 3.x) installed on your machine.
+    To use python3.X use 'python3' instead of 'python'
+    
+2. Installing Graphviz 
+    sudo apt-get install graphviz
+    
+3. Installing PyDot
+    sudo pip3 install pydot
+    
+4. Installing PyQt5 
+    sudo pip3 install pyqt5      
+    sudo pip3 install pyqt5-dev-tools        --please ignore if you don't want to install QtDesigner    
+    
