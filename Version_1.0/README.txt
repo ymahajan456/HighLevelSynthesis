@@ -2,7 +2,7 @@ High-Level Synthesis - EE677 Course Project
 By:
 	Yogesh Mahajan	: y.mahajan456[at]gmail.com
 	Avineil Jain	: avineil96[at]gmail.com
-	OV Shashank		: shashankov[at]ee.iitb.ac.in
+	OV Shashank	: shashankov[at]ee.iitb.ac.in
 	
 Contents:
 	Report.pdf				: The Project Report
