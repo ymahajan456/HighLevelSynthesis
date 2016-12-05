@@ -1,8 +1,8 @@
 High-Level Synthesis - EE677 Course Project
 By:
-	OV Shashank		: shashankov[at]ee.iitb.ac.in
 	Yogesh Mahajan	: y.mahajan456[at]gmail.com
 	Avineil Jain	: avineil96[at]gmail.com
+	OV Shashank		: shashankov[at]ee.iitb.ac.in
 	
 Contents:
 	Report.pdf				: The Project Report
@@ -10,7 +10,7 @@ Contents:
 	install_dependencies.sh	: FOR UBUNTU ONLY.
 							  This file installs all the dependicies necesary to compile
 							  and run the project
-	install_guide.txt			: This file contains instructions on how to obtain the
+	install_guide.txt		: This file contains instructions on how to obtain the
 							  dependecies if you choose to do it manually or use
 							  Windows
 							  
