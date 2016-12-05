@@ -8,4 +8,4 @@ constraints on the timing and resources to generate an internal representation. 
 further to generate a synthesizable VHDL component which can be used by the user to perform the
 operation as desired.
 
-Write now this project is in initial stage and we are open for new ideas and will be very pleased by your contribution. 
+Right now the project is in initial stage and we are open for new ideas and will be very pleased by your contribution. 
